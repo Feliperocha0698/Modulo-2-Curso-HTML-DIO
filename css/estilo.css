@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background: black;
+}
+.content{
+    display: inline-block;
+    text-align: center;
+}
+.textoprincipal{
+    color: white;
+    font-size: 50px;
+}
+
+.paragrafosprincipal{
+    color: white;
+    font-size: 40px;
+}
+
+.imagensprincipal{
+    width: 100%;
+}
+
+.nav {
+    text-align: center;
+}
+
+nav a{
+    color: goldenrod;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.table1{
+    color: white;
+    text-align: center;
+    /* border: 1px solid white; */
+    margin-left: 33%;
+}
+
+.tablethead1{
+    color: white;
+    /* border: 1px solid white; */
+}
+
+.tablebody1{
+    color: white;
+    text-align: center;
+}
+
+#manhas{
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.table2{
+    color: white;
+    text-align: center;
+    /* border: 1px solid white; */
+    margin-left: 33%;
+
+}
+
+.tablethead2{
+    color: white;
+}
+
+.tablebody2{
+    color: white;
+}
+
+.horas{
+    text-align: center;
+}
